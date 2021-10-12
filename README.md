@@ -1,9 +1,7 @@
 # Ethereum and VueJS DApp
 
 This is a simple decentralized application built using **Ethereum** blockchain and **Vue JS** for the front-end. This DApp example let the users store their profile (name and status) on the blockchain.
-
-![N|Solid](https://www.danielefavi.com/wp-content/uploads/2018/05/ethereum_vue_dapp_user_list.png)
-
+ 
 # Brief description
 The DApp allow users to register their name and status on the blockchain. The user's profile is associated with an account address (or wallet addres).
 
@@ -45,5 +43,4 @@ Your application is running here: http://localhost:8080
 8) Open the browser, go to the URL shown by your terminal and play with the DApp!
 
 **NOTE:** if you want to try to add more user profiles you have to install metamask in your browser, then import the accounts into metamask and finally change account on metamask in order to register a new user.
-
-Visit [DanieleFavi.com](https://www.danielefavi.com/create-your-blockchain-dapp-with-ethereum-and-vuejs/) for more info.
+ 
